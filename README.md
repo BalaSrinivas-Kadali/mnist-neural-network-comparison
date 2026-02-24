@@ -46,5 +46,5 @@ The report discusses:
 - Human-in-the-loop systems
 
 ## Author
-Bala Srinivas Kadali
+Bala Srinivas Kadali,
 MSc Data Science
